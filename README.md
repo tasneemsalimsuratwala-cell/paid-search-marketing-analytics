@@ -33,6 +33,7 @@ This project analyzes 5 months of paid search campaign data to evaluate performa
 
 ## 📈 Dashboard
 Live Tableau Dashboard: [Add Tableau Public Link Here]
+![Dashboard Preview](Dashboard-preview.png)
 
 ## 💡 Recommendations
 - Audit and optimize high-spend loss-making campaigns.
